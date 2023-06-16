@@ -1,1 +1,1 @@
-Simple Rock Paper Game with GUI
+# Simple Rock Paper Scisssor Game with GUI
